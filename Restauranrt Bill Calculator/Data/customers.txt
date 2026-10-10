@@ -1,0 +1,2 @@
+# Restaurant customer data
+1 "Rahul Sharma" "9876543210"

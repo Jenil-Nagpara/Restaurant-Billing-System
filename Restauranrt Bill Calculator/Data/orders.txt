@@ -1,0 +1,2 @@
+# Restaurant order data
+1 1 2 1 "Burger" "Fastfood" 120.00 2 2 "Pizza" "FastFood" 260.00 1

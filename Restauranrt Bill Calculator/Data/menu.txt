@@ -1,0 +1,13 @@
+# Restaurant menu data
+1 "Burger" "Fastfood" 120.00
+2 "Pizza" "FastFood" 260.00
+3 "FrenchFries" "FastFood" 90.00
+4 "Pasta" "FastFood" 230.00
+5 "Tandoori Paneer Sandwich" "FastFood" 180.00
+6 "HotDog" "FastFood" 140.00
+7 "Dabeli" "FastFood" 35.00
+8 "Vadapav" "FastFood" 40.00
+9 "Misal Pav" "FastFood" 130.00
+10 "Gujarati Thali" "Main Course" 280.00
+11 "Kathiyawadi Thali" "Main Course" 290.00
+12 "Punjabi Thali" "Main Course" 330.00
